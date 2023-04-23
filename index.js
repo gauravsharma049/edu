@@ -39,26 +39,26 @@ function navbar(){
     return (
         `<nav class="navbar navbar-expand-md navbar-light bg-warning">
         <div class="container-fluid">
-          <a class="navbar-brand" href="/"><img height="40px" src="/images/logo.png" alt="Logo"></a>
+          <a class="navbar-brand" href="/"><img height="40px" src="images/logo.png" alt="Logo"></a>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
           <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
             <ul class="navbar-nav">
               <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="/">Home</a>
+                <a class="nav-link active" aria-current="page" href="edu/">Home</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="/articles.html">Articles</a>
+                <a class="nav-link" href="edu/articles.html">Articles</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="/tutorials.html">Tutorials</a>
+                <a class="nav-link" href="edu/tutorials.html">Tutorials</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="/faq.html">FAQ</a>
+                <a class="nav-link" href="edu/faq.html">FAQ</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="/contactus.html">Contact Us</a>
+                <a class="nav-link" href="edu/contactus.html">Contact Us</a>
               </li>
             </ul>
           </div>

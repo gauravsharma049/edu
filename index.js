@@ -49,16 +49,16 @@ function navbar(){
                 <a class="nav-link active" aria-current="page" href="edu/">Home</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="edu/articles.html">Articles</a>
+                <a class="nav-link" href="/articles.html">Articles</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="edu/tutorials.html">Tutorials</a>
+                <a class="nav-link" href="/tutorials.html">Tutorials</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="edu/faq.html">FAQ</a>
+                <a class="nav-link" href="/faq.html">FAQ</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="edu/contactus.html">Contact Us</a>
+                <a class="nav-link" href="/contactus.html">Contact Us</a>
               </li>
             </ul>
           </div>
